@@ -85,3 +85,11 @@ I am currently a Computer Science and Math student at Centre College, a programm
     </td>
   </tr>
 </table>
+<hr />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iccowan&count_private=true&show_icons=true&hide=contribs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iccowan&layout=compact" />
+</p>
