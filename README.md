@@ -10,7 +10,15 @@
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" />
   </a>
 </p>
-
+<p align="left">
+  <a href="https://www.cowman.xyz">
+    <img src="https://img.shields.io/badge/Personal%20Website-grey?logo=laravel" />
+  </a>
+  <a href="https://iancowan.me">
+    <img src="https://img.shields.io/badge/NEW%20Personal%20Website-grey?logo=react" />
+  </a>
+</p>
+  
 ## About Me
 I am currently a Computer Science and Math student at Centre College, a programmer, and a flight instructor. I have been programming for a few years before college, and have worked on and produced a few projects that have been used widespread in the past few years. I am always looking for something new to learn and something new to work on!
 
