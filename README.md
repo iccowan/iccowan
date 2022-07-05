@@ -20,7 +20,7 @@
 </p>
   
 ## About Me
-I am currently a Computer Science and Math student at Centre College, a programmer, and a flight instructor. I have been programming for a few years before college, and have worked on and produced a few projects that have been used widespread in the past few years. I am always looking for something new to learn and something new to work on!
+I am a software engineer for 84.51&deg; and a part time flight instructor in Cincinnati, OH. I obtained my B.S. in mathematics and computer science at Centre College in May, 2022. I have been programming for about 5 years and have worked on and produced a few projects that have been used widespread in the past few years. I am always looking for something new to learn and something new to work on!
 
 ## My Top Skills
 <table>
