@@ -1,6 +1,11 @@
 ### Hello, World! 👋
 ## Ian Cowan
 <p align="left">
+  <a href="https://ian.cowan.aero">
+    <img src="https://img.shields.io/badge/Personal%20Website-grey?logo=svelte" />
+  </a>
+  &nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/ian-cowan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -8,14 +13,6 @@
   &nbsp;
   <a href="https://github.com/iccowan/">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.cowman.xyz">
-    <img src="https://img.shields.io/badge/Personal%20Website-grey?logo=laravel" />
-  </a>
-  <a href="https://iancowan.me">
-    <img src="https://img.shields.io/badge/NEW%20Personal%20Website-grey?logo=react" />
   </a>
 </p>
   
